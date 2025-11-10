@@ -101,7 +101,6 @@ Works in short cycles (sprints) with continuous feedback.
 | Operate | Run application |
 | Monitor | Track performance and errors |
 
-![Image Placeholder – DevOps Lifecycle Diagram](path/to/image)
 
 ### 🧰 Key DevOps Practices
 
@@ -191,7 +190,6 @@ The **kernel** is the *core* of Linux that connects hardware ↔ software.
 
 ````
 
-![Image Placeholder – Linux File System Tree](path/to/image)
 
 > 🧩 **Tip:** Use `df -h` to check mounted file systems and disk usage.
 
@@ -1277,8 +1275,6 @@ The cron daemon (`crond`) runs in the background and reads scheduling tables cal
 0 0 * * 0 /home/user/cleanup.sh
 # Explanation: Runs cleanup.sh every Sunday at midnight.
 ```
-
-![Image Placeholder – CronJob Timing Table](path/to/image)
 
 ---
 
