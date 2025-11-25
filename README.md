@@ -7,6 +7,7 @@ Comprehensive notes covering **DevOps basics, Linux administration, shell script
 ## 📘 1. DevOps Basics
 
 ### 🔹 What is DevOps?
+![linux](https://github.com/shyamdevk/DevOps-Linux-Basics/blob/image/devops.gif)
 
 **DevOps** combines **Development (Dev)** and **Operations (Ops)** practices to:
 
@@ -20,6 +21,7 @@ Comprehensive notes covering **DevOps basics, Linux administration, shell script
 ---
 
 ## 🧩 2. Software Development Life Cycle (SDLC)
+![linux](https://github.com/shyamdevk/DevOps-Linux-Basics/blob/image/sdlc.gif)
 
 ### 🪜 Steps:
 
@@ -116,6 +118,7 @@ Works in short cycles (sprints) with continuous feedback.
 ---
 
 ## 🧠 5. Linux Fundamentals
+![linux](https://github.com/shyamdevk/DevOps-Linux-Basics/blob/image/linux.gif)
 
 ### 🧩 What is Linux?
 
@@ -399,6 +402,9 @@ sudo usermod -d /home/newdemo demouser
 ---
 
 ## 👥 10. Group Management in Linux
+
+![linux](https://github.com/shyamdevk/DevOps-Linux-Basics/blob/image/group.gif)
+
 
 Groups make permission management easier by grouping users 👨‍👩‍👦.
 
@@ -995,6 +1001,9 @@ taskset -c 0,1 python3 script.py
 
 ## 🐚 17. Shell & Shell Scripting
 
+![linux](https://github.com/shyamdevk/DevOps-Linux-Basics/blob/image/shell.gif)
+
+
 Shell scripting automates repetitive tasks by combining Linux commands in a file executed by a shell interpreter 🧾.
 
 ---
@@ -1237,6 +1246,9 @@ ls -l
 ---
 
 ## ⏰ 20. Cron Jobs in Linux
+
+![linux](https://github.com/shyamdevk/DevOps-Linux-Basics/blob/image/cron.gif)
+
 
 A **cron job** automates tasks by running commands or scripts at scheduled times 🕒.
 Perfect for backups, updates, and maintenance.
